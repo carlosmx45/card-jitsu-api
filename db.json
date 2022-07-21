@@ -6,7 +6,7 @@
             "color": "Azul",
             "potencia": 7,
             "price": 10,
-            "image": "https://i.imgur.com/k4PcEsi.png",
+            "image": "https://i.imgur.com/k4PcEsi.png"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "color": "Morado",
             "potencia": 6,
             "price": 10,
-            "image": "https://i.imgur.com/XXWngyc.png",
+            "image": "https://i.imgur.com/XXWngyc.png"
         },
         {
             "id": 3,
@@ -22,7 +22,7 @@
             "color": "Amarillo",
             "potencia": 2,
             "price": 10,
-            "image": "https://i.imgur.com/YW85vmO.png",
+            "image": "https://i.imgur.com/YW85vmO.png"
         },
         {
             "id": 4,
@@ -30,7 +30,7 @@
             "color": "Rojo",
             "potencia": 2,
             "price": 10,
-            "image": "https://i.imgur.com/CquTQxU.png",
+            "image": "https://i.imgur.com/CquTQxU.png"
         },
         {
             "id": 5,
@@ -38,7 +38,7 @@
             "color": "Naranja",
             "potencia": 3,
             "price": 10,
-            "image": "https://i.imgur.com/RtK7sWG.png",
+            "image": "https://i.imgur.com/RtK7sWG.png"
         },
         {
             "id": 6,
@@ -46,7 +46,7 @@
             "color": "Amarillo",
             "potencia": 7,
             "price": 10,
-            "image": "https://i.imgur.com/mtPQbXa.png",
+            "image": "https://i.imgur.com/mtPQbXa.png"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "color": "Verde",
             "potencia": 2,
             "price": 10,
-            "image": "https://i.imgur.com/mPvXovV.png",
+            "image": "https://i.imgur.com/mPvXovV.png"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "color": "Morado",
             "potencia": 4,
             "price": 10,
-            "image": "https://i.imgur.com/mTXJ8rb.png",
+            "image": "https://i.imgur.com/mTXJ8rb.png"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "color": "Azul",
             "potencia": 5,
             "price": 10,
-            "image": "https://i.imgur.com/Fovn0Zh.png",
+            "image": "https://i.imgur.com/Fovn0Zh.png"
         },
         {
             "id": 10,
@@ -78,7 +78,7 @@
             "color": "Amarillo",
             "potencia": 10,
             "price": 20,
-            "image": "https://imgur.com/g2jIKoT.png",
-        },
+            "image": "https://imgur.com/g2jIKoT.png"
+        }
       ]
 }
