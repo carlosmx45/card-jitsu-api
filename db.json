@@ -1,5 +1,4 @@
-{
-    "items": [
+[
         {
             "id": 1,
             "title": "Cartas de Fuego",
@@ -80,5 +79,4 @@
             "price2: 20,
             "image": "https://imgur.com/g2jIKoT.png",
         },
-      ]
-}
+]
