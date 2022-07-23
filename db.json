@@ -2,7 +2,7 @@
       "items": [
         {
             "id": 1,
-            "title": "Cartas de Fuego",
+            "title": "Carta de Fuego",
             "color": "Azul",
             "potencia": 7,
             "price": 10,
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "title": "Cartas de Fuego",
+            "title": "Carta de Fuego",
             "color": "Morado",
             "potencia": 6,
             "price": 10,
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "title": "Cartas de Fuego",
+            "title": "Carta de Fuego",
             "color": "Amarillo",
             "potencia": 2,
             "price": 10,
@@ -26,7 +26,7 @@
         },
         {
             "id": 4,
-            "title": "Cartas de Nieve",
+            "title": "Carta de Nieve",
             "color": "Rojo",
             "potencia": 2,
             "price": 10,
@@ -34,7 +34,7 @@
         },
         {
             "id": 5,
-            "title": "Cartas de Nieve",
+            "title": "Carta de Nieve",
             "color": "Naranja",
             "potencia": 3,
             "price": 10,
@@ -42,7 +42,7 @@
         },
         {
             "id": 6,
-            "title": "Cartas de Nieve",
+            "title": "Carta de Nieve",
             "color": "Amarillo",
             "potencia": 7,
             "price": 10,
@@ -50,7 +50,7 @@
         },
         {
             "id": 7,
-            "title": "Cartas de Agua",
+            "title": "Carta de Agua",
             "color": "Verde",
             "potencia": 2,
             "price": 10,
@@ -58,7 +58,7 @@
         },
         {
             "id": 8,
-            "title": "Cartas de Agua",
+            "title": "Carta de Agua",
             "color": "Morado",
             "potencia": 4,
             "price": 10,
@@ -66,7 +66,7 @@
         },
         {
             "id": 9,
-            "title": "Cartas de Agua",
+            "title": "Carta de Agua",
             "color": "Azul",
             "potencia": 5,
             "price": 10,
@@ -74,7 +74,7 @@
         },
         {
             "id": 10,
-            "title": "Cartas de Agua",
+            "title": "Carta de Agua",
             "color": "Amarillo",
             "potencia": 10,
             "price": 20,
