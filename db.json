@@ -79,7 +79,7 @@
             "potencia": 10,
             "price": 20,
             "image": "https://imgur.com/g2jIKoT.png"
-        }
+        },
         {
             "id": 11,
             "title": "Carta de Nieve",
@@ -87,7 +87,7 @@
             "potencia": 2,
             "price": 10,
             "image": "https://i.imgur.com/ICan1hh.png"
-        }
+        },
         {
             "id": 12,
             "title": "Carta de Fuego",
@@ -95,7 +95,7 @@
             "potencia": 8,
             "price": 10,
             "image": "https://i.imgur.com/B3sSUlS.png"
-        }
+        },
         {
             "id": 13,
             "title": "Carta de Fuego",
@@ -103,7 +103,7 @@
             "potencia": 2,
             "price": 10,
             "image": "https://i.imgur.com/OK1lNM6.png"
-        }
+        },
         {
             "id": 14,
             "title": "Carta de Fuego",
@@ -111,7 +111,7 @@
             "potencia": 9,
             "price": 20,
             "image": "https://i.imgur.com/BUdicXl.png"
-        }
+        },
         {
             "id": 15,
             "title": "Carta de Nieve",
