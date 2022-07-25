@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "title": "Pizza Vheff",
+            "title": "Pizza Cheff",
             "elemento": "Fuego",
             "color": "Morado",
             "potencia": 6,
@@ -101,7 +101,7 @@
         },
         {
             "id": 12,
-            "title": "Edicion Especial de CMX45INDUSTRIES",
+            "title": "Edicion Especial de CMX45",
             "elemento": "Fuego",
             "color": "Verde",
             "potencia": 45,
