@@ -87,6 +87,14 @@
             "potencia": 1,
             "price": 10,
             "image": "https://i.imgur.com/ICan1hh.png"
+        },
+        {
+            "id": 12,
+            "title": "Edicion Especial de CMX45",
+            "color": "Verde",
+            "potencia": 45,
+            "price": 450,
+            "image": "https://i.imgur.com/roz8OrN.png"
         }
       ]
 }
