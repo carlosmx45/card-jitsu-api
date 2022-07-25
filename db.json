@@ -6,7 +6,7 @@
             "elemento": "Fuego",
             "color": "Azul",
             "potencia": 7,
-            "price": 10,
+            "price": 70,
             "image": "https://i.imgur.com/k4PcEsi.png"
         },
         {
@@ -15,7 +15,7 @@
             "elemento": "Fuego",
             "color": "Morado",
             "potencia": 6,
-            "price": 10,
+            "price": 60,
             "image": "https://i.imgur.com/XXWngyc.png"
         },
         {
@@ -24,7 +24,7 @@
             "elemento": "Fuego",
             "color": "Amarillo",
             "potencia": 2,
-            "price": 10,
+            "price": 20,
             "image": "https://i.imgur.com/YW85vmO.png"
         },
         {
@@ -33,7 +33,7 @@
             "elemento": "Nieve",
             "color": "Rojo",
             "potencia": 2,
-            "price": 10,
+            "price": 20,
             "image": "https://i.imgur.com/CquTQxU.png"
         },
         {
@@ -42,7 +42,7 @@
             "elemento": "Nieve",
             "color": "Naranja",
             "potencia": 3,
-            "price": 10,
+            "price": 30,
             "image": "https://i.imgur.com/RtK7sWG.png"
         },
         {
@@ -51,7 +51,7 @@
             "elemento": "Nieve",
             "color": "Amarillo",
             "potencia": 7,
-            "price": 10,
+            "price": 70,
             "image": "https://i.imgur.com/mtPQbXa.png"
         },
         {
@@ -60,7 +60,7 @@
             "elemento": "Agua",
             "color": "Verde",
             "potencia": 2,
-            "price": 10,
+            "price": 20,
             "image": "https://i.imgur.com/mPvXovV.png"
         },
         {
@@ -69,7 +69,7 @@
             "elemento": "Agua",
             "color": "Morado",
             "potencia": 4,
-            "price": 10,
+            "price": 40,
             "image": "https://i.imgur.com/mTXJ8rb.png"
         },
         {
@@ -78,7 +78,7 @@
             "elemento": "Agua",
             "color": "Azul",
             "potencia": 5,
-            "price": 10,
+            "price": 50,
             "image": "https://i.imgur.com/Fovn0Zh.png"
         },
         {
@@ -87,7 +87,7 @@
             "elemento": "Agua",
             "color": "Amarillo",
             "potencia": 10,
-            "price": 20,
+            "price": 100,
             "image": "https://imgur.com/g2jIKoT.png"
         },
         {
@@ -95,8 +95,8 @@
             "title": "Hiking In The Forest",
             "elemento": "Nieve",
             "color": "Verde",
-            "potencia": 1,
-            "price": 10,
+            "potencia": 2,
+            "price": 20,
             "image": "https://i.imgur.com/ICan1hh.png"
         },
         {
