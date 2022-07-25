@@ -106,7 +106,7 @@
             "color": "Verde",
             "potencia": 45,
             "price": 450,
-            "image": "hhttps://i.imgur.com/roz8OrN.png",
-        },
+            "image": "https://i.imgur.com/roz8OrN.png"
+        }
       ]
 }
